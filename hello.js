@@ -3,5 +3,5 @@ const a = ()=>{
 }
 
 const b = ()=>{
-    alert("20")
+    alert("ppppppppppp")
 }
