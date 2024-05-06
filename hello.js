@@ -4,4 +4,5 @@ const a = ()=>{
 
 const b = ()=>{
     alert("ppppppppppp")
+    return '5'
 }
