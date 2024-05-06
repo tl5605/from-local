@@ -3,5 +3,5 @@ const a = ()=>{
 }
 
 const b = ()=>{
-    return 10
+    return '5'
 }
