@@ -9,6 +9,13 @@ const b = ()=>{
 
 
 
-const d = () =>{
-    confirm("are your sure??? ")
+
+
+
+
+
+
+
+const c = () =>{
+    confirm("change c")
 }
