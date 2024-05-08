@@ -7,6 +7,15 @@ const b = ()=>{
     return '5'
 }
 
+
+
+
+
+
+
+
+
+
 const c = () =>{
     confirm("change c")
 }
