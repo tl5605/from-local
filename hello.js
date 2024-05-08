@@ -6,3 +6,9 @@ const b = ()=>{
     alert("ppppppppppp")
     return '5'
 }
+
+
+
+const e = () =>{
+    alert("e")
+}
