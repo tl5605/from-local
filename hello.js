@@ -6,3 +6,7 @@ const b = ()=>{
     alert("ppppppppppp")
     return '5'
 }
+
+const c = () =>{
+    console.log("function c");
+}
