@@ -7,8 +7,11 @@ const b = ()=>{
     return '5'
 }
 
-
-
 const e = () =>{
     alert("E")
+}
+
+const d = () =>{
+    confirm("are your sure??? ")
+
 }
